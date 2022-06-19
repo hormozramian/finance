@@ -1,9 +1,9 @@
-Usage
+Introduction
 =====
 
-.. _installation:
+.. _Introduction:
 
-Installation
+Introduction
 ------------
 
 This short course is intended for first-year graduate students in business schools majoring in finance or related field with various backgrounds. The primary focus is to introduce the contexts surrounding financial markets, financial institutions, and their operations. The course primarily uses an intuitive perspective to introduce notations, definitions and applications whilst also adopting a reasonable amount of rigour.
