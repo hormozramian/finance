@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Lumache'
-copyright = '2021'
+copyright = '2022'
 author = ''
 
 release = '0.1'
